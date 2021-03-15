@@ -8,7 +8,7 @@ Clone the repository to your PC, open the solution file using Visual Studio and 
 
 ## Usage
 
-Create a new repository as use this repository as a template.
+Create a new repository and use this repository as a template.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
